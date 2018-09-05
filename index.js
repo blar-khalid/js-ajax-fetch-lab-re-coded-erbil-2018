@@ -1,3 +1,7 @@
+const userName = ''
+const url = 'https://github.com/blar-khalid'
+const fork = `${userName}/javascript-fetch-lab`
+
 function getIssues() {
 }
 
